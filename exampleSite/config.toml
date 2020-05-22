@@ -1,4 +1,4 @@
-baseURL = "https://text-mining-group.netlify.app"
+baseURL = "https://text-mining-wg.netlify.app/"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
