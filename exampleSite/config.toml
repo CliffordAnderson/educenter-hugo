@@ -1,10 +1,10 @@
 baseURL = "https://text-mining-wg.netlify.app/"
 disableLanguages = []
-disqusShortname = "educenter"
+disqusShortname = "textmininglab"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
-title = "Educenter | hugo education template"
+title = "Text Mining for Literary Analysis"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
